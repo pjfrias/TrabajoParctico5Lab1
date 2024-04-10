@@ -8,7 +8,8 @@ public class TrabajoParctico5Lab1 {
     public static void main(String[] args) {
         
      ListaProductos2 lista=new ListaProductos2();
-     lista.setVisible(true);    
+     lista.setVisible(true);
+     //lista.setLocationByPlatform(true);
     }
 
 }
